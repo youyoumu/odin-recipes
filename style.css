@@ -1,0 +1,16 @@
+.add-background {
+    background-color: honeydew;
+}
+
+.add-font {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-background {
+    background-color: lemonchiffon;
+}
+
+.img-adjust {
+    width:480px;
+    height: auto;
+}
