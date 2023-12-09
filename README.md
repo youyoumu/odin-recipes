@@ -1,3 +1,3 @@
 # odin-recipes
 
-this project is about to build basic recipe website
+This is part of The Odin Project course
